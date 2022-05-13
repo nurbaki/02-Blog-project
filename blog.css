@@ -1,0 +1,21 @@
+table{
+    border-color: blue;
+    margin: 1rem;
+    padding: 5rem 2rem;
+}
+tr{
+    border: none;
+    border-style: none;
+}
+td{
+    border: 0cm;
+}
+td.yazılar{
+    padding-left: 3rem;
+} 
+.foto{
+    width: 25%;
+}
+img{
+    width: 100%;
+}
